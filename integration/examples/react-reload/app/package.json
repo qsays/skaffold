@@ -19,8 +19,8 @@
     "webpack-dev-server": "^3.2.1"
   },
   "dependencies": {
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
   },
   "browserslist": "> 2%, not dead"
 }
